@@ -15,12 +15,38 @@
 
 | 餐廳 / 地點 | 類型 | 人均消費 |
 |-------------|------|----------|
-| Top Spot Food Court | 海鮮與多人聚餐 | MYR 30～60（約 NT$210～420） |
-| Choon Hui Café | 叻沙早餐名店 | MYR 10～20（約 NT$70～140） |
-| James Brooke Bistro | 河畔景觀餐廳 | MYR 40～80（約 NT$280～560） |
-| Benson Seafood | 平價海鮮 | MYR 25～50（約 NT$175～350） |
-| Lim Hock Ann | 咖啡與冰品 | MYR 5～15（約 NT$35～105） |
-| Open Air Market | 在地小吃集中地 | MYR 5～15（約 NT$35～105） |
+| [Top Spot Food Court](https://www.google.com/maps/search/?api=1&query=Top+Spot+Food+Court+Kuching) | 海鮮與多人聚餐 | MYR 30～60（約 NT$210～420） |
+| [Choon Hui Café](https://www.google.com/maps/search/?api=1&query=Choon+Hui+Cafe+Kuching) | 叻沙早餐名店 | MYR 10～20（約 NT$70～140） |
+| [James Brooke Bistro](https://www.google.com/maps/search/?api=1&query=James+Brooke+Bistro+Kuching) | 河畔景觀餐廳 | MYR 40～80（約 NT$280～560） |
+| [Benson Seafood](https://www.google.com/maps/search/?api=1&query=Benson+Seafood+Kuching) | 平價海鮮 | MYR 25～50（約 NT$175～350） |
+| [Lim Hock Ann](https://www.google.com/maps/search/?api=1&query=Lim+Hock+Ann+Kuching) | 咖啡與冰品 | MYR 5～15（約 NT$35～105） |
+| [Open Air Market（露天市集）](https://www.google.com/maps/search/?api=1&query=Open+Air+Market+Kuching) | 在地小吃集中地 | MYR 5～15（約 NT$35～105） |
+
+## 特色點心推薦
+
+砂拉越擁有豐富的多元文化點心，以下為古晉常見特色小吃及購買地點：
+
+| 點心 | 特色 | 推薦店家 |
+|------|------|----------|
+| Kek Lapis Sarawak（砂拉越千層蛋糕） | 色彩鮮豔的傳統節慶蛋糕，口感紮實、層次豐富，也是熱門伴手禮 | [Kek Lapis Dayang Salhah](https://www.google.com/maps/search/?api=1&query=Kek+Lapis+Dayang+Salhah+Kuching) |
+| Kompia（空必亞） | 福州芝麻麵包圈，外酥內軟，可夾叉燒或牛肉 | [Chong Choon Café](https://www.google.com/maps/search/?api=1&query=Chong+Choon+Cafe+Kuching) |
+| Teh C Peng Special（三層奶茶） | 砂拉越招牌飲料，由淡奶、糖漿與錫蘭紅茶三層疊成，口感層次豐富 | 各大 kopitiam 均有供應 |
+| Kueh（馬來傳統糕點） | 包含椰糖米糕、葉包糕等多種口味，早市常見 | [Main Bazaar 週邊攤位](https://www.google.com/maps/search/?api=1&query=Main+Bazaar+Kuching) |
+| Popiah（薄餅） | 福州式生春捲，內餡包含豆薯、豆腐乾與花生碎 | [Batu Kawa 老鎮市場](https://www.google.com/maps/search/?api=1&query=Batu+Kawa+Kuching) |
+| 紅龜粿（Ang Ku Kueh） | 外皮紅色龜形米糕，內餡為綠豆或花生，早市常見傳統點心 | [Open Air Market（露天市集）](https://www.google.com/maps/search/?api=1&query=Open+Air+Market+Kuching) |
+
+## 咖啡店推薦
+
+古晉保留了許多傳統南洋咖啡館（kopitiam），近年也有不少精品咖啡店興起：
+
+| 咖啡店 | 風格 | 推薦項目 | 人均消費 |
+|--------|------|----------|----------|
+| [Black Bean Coffee & Tea House](https://www.google.com/maps/search/?api=1&query=Black+Bean+Coffee+Tea+House+Kuching) | 傳統南洋咖啡館 | 砂拉越白咖啡、叻沙早餐套餐 | MYR 8～18（約 NT$56～126） |
+| [Zhun San Yen（精山苑）](https://www.google.com/maps/search/?api=1&query=Zhun+San+Yen+Kuching) | 老字號 kopitiam | 傳統手沖咖啡、咖椰吐司 | MYR 5～12（約 NT$35～84） |
+| [Common Ground Coffee](https://www.google.com/maps/search/?api=1&query=Common+Ground+Coffee+Kuching) | 精品咖啡 | 單品手沖、義式咖啡 | MYR 12～25（約 NT$84～175） |
+| [Lepau Café](https://www.google.com/maps/search/?api=1&query=Lepau+Cafe+Kuching) | 融合砂拉越風味 | 伊班族風味輕食、特色咖啡 | MYR 15～30（約 NT$105～210） |
+| [Tribe Coffee](https://www.google.com/maps/search/?api=1&query=Tribe+Coffee+Kuching) | 精品咖啡 | 特調咖啡、冷萃 | MYR 12～22（約 NT$84～154） |
+| [Jok & Merry Café](https://www.google.com/maps/search/?api=1&query=Jok+and+Merry+Cafe+Kuching) | 復古風格咖啡館 | 自家烘焙咖啡、手作甜點 | MYR 10～20（約 NT$70～140） |
 
 ## 用餐建議
 
